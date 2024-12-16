@@ -58,11 +58,18 @@ Install I2C tools:
 sudo apt-get install i2c-tools
 ```
 
-### Step 4: Clone the Repository
+### Step 4a: Clone the Repository
 Clone the project repository to your Raspberry Pi:
 ```bash
 git clone https://github.com/nelscamp/SI_Final_LeWindmill.git
 cd SI_Final_LeWindmill
+```
+
+### Step 4b: Download Files Manually
+- Install all files from https://github.com/nelscamp/SI_Final_LeWindmill.git into a folder.
+- Access folder in terminal:
+```bash
+cd C:/path/to/folder
 ```
 
 ### Step 5: Install Dependencies
