@@ -143,7 +143,7 @@ windmill-control/
 ---
 
 ## Credits
-Developed by **Nelson Campos** as a control panel for the Lebron Windmill.
+Developed by **Nelson C., Ryan C., and Ethan S.** as a control panel for the Lebron Windmill.
 
 ---
 
