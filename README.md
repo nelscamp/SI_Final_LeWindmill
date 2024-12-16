@@ -25,7 +25,7 @@ Before installing and running the program, ensure the following:
 ## Required Hardware
 1. **Stepper Motors** (e.g., NEMA17)
 2. **DRV8833 Motor Drivers**
-3. **I2C LCD Display**
+3. **LCD Display**
 4. **Raspberry Pi GPIO Pins**
 5. Power Supply and Cables
 
