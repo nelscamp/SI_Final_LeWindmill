@@ -9,7 +9,7 @@ The **Windmill Control Panel** is a Python-based application for managing the op
 - **Motor Control**: Start, stop, and adjust the speed of the windmill and music box motors.
 - **Direction Control**: Change the direction of motor rotation.
 - **GUI**: User-friendly interface built with CustomTkinter.
-- **I2C LCD Support**: Display real-time motor statistics and status.
+- **LCD Support**: Display real-time motor statistics and status.
 - **Raspberry Pi GPIO Integration**: Control hardware components directly.
 
 ---
