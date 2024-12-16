@@ -61,8 +61,8 @@ sudo apt-get install i2c-tools
 ### Step 4: Clone the Repository
 Clone the project repository to your Raspberry Pi:
 ```bash
-git clone https://github.com/yourusername/windmill-control.git
-cd windmill-control
+git clone [https://github.com/nelscamp/SI_Final_LeWindmill.git]
+cd SI_Final_LeWindmill.git
 ```
 
 ### Step 5: Install Dependencies
