@@ -65,6 +65,8 @@ git clone https://github.com/nelscamp/SI_Final_LeWindmill.git
 cd SI_Final_LeWindmill
 ```
 
+### OR ###
+
 ### Step 4b: Download Files Manually
 - Install all files from https://github.com/nelscamp/SI_Final_LeWindmill.git into a folder.
 - Access folder in terminal:
